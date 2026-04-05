@@ -1,18 +1,54 @@
-# Modern Stopwatch ⏱️
+# 🌟 Stopwatch
 
-A simple, clean, and modern stopwatch web application built using **HTML, CSS, and JavaScript**.  
-This stopwatch allows you to **start, stop, and reset** time, displaying hours, minutes, and seconds in a user-friendly interface. Perfect for portfolio projects or as a utility tool.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-## Features
+**Stopwatch** is a simple and interactive web application built using **HTML, CSS, and JavaScript**, designed to track time with **start, stop, and reset functionality**.
 
-- Responsive and modern design with gradients and shadows.  
-- Displays time in **HH:MM:SS** format.  
-- **Start**, **Stop**, and **Reset** functionality.  
-- Smooth hover and click effects on buttons.  
-- Lightweight and works on all modern browsers.
+💡 This project focuses on **time-based logic and user interaction**, demonstrating how JavaScript handles real-time updates.
 
-## Technologies Used
+---
 
-- **HTML** – Structure of the stopwatch.  
-- **CSS** – Modern styling with gradients, shadows, and button effects.  
-- **JavaScript** – Stopwatch logic and time handling.
+## 🌐 Live Demo
+
+[⏱️ View Stopwatch Live](https://stop-watch-ten-tawny.vercel.app/)
+
+---
+
+## 🌈 Tech Skills
+
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
+
+---
+
+## 💻 About Stopwatch
+
+- Start, stop, and reset **time tracking functionality**  
+- Uses **JavaScript timing functions** for real-time updates  
+- Displays time in a **clear and readable format**  
+- Designed with a **clean and user-friendly interface**  
+- Demonstrates **core JavaScript logic and event handling**  
+
+---
+
+## 🌱 Learning & Growth
+
+- ⏱️ Understanding **time-based functions in JavaScript**  
+- 💻 Strengthening **event handling and logic building**  
+- 🎯 Improving **interactive UI behavior**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2744/StopWatch)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
